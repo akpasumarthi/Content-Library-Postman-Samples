@@ -1,3 +1,5 @@
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/alanrenouf/Content-Library-Postman-Samples/master/Content%2520Library.json.postman_collection)
+
 # Content Library Postman Samples
 vSphere Content Library REST Postman Samples
 
