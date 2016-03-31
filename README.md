@@ -1,6 +1,8 @@
 # Content Library Postman Samples
 vSphere Content Library REST Postman Samples
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/ce29c785b475a743ea28)
+
 ##Usage
 To use this collection of REST samples:
 
