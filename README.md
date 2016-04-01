@@ -11,6 +11,7 @@ To use this collection of REST samples:
 
 OR...
 
+1.  Download and Install Postman from here: https://www.getpostman.com/
 1.  Import the postman colection from this github repo
 2.  Create an Environment with a variable called VC that has your hostname/ip of your Test vCenter in it
 
